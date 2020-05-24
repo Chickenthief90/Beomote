@@ -12,6 +12,7 @@ The following remotes have been tested and works with the library:
 
 - Bang &amp; Olufsen Beo4
 - Bang &amp; Olufsen Beolink 1000
+- Bang &amp; Olufsen Beo6
 
 
 Connection
